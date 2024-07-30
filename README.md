@@ -18,6 +18,6 @@ Nova is a C++ based object-oriented programming project about a virtual assistan
 3. In the eSpeak folder, open the command line folder.
 4. Take the eSpeak executable file.
 5. Put the executable file in the same folder as the Nova cpp file.
-6. To run the program, type `.\\a.exe` in the terminal of VS Code.
+6. To run the program, type `.\a.exe` in the terminal of VS Code.
 
 **Note:** The eSpeak feature has been downloaded from [eSpeak](https://espeak.sourceforge.net/download.html) (Compiled for Windows, SAPI5, and command-line versions).
